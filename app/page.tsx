@@ -6,6 +6,10 @@ export default function Home() {
       <h1 className="text-3xl font-bold text-center mt-16 p-5 w-10/12 mx-auto bg-indigo-800 rounded-xl shadow-lg shadow-indigo-500 dark:text-amber-600">
         Home
       </h1>
+
+      <h2 className="text-2xl font-bold text-center mt-16 p-5 w-1/2 mx-auto bg-indigo-800 rounded-xl shadow-lg shadow-indigo-500 dark:text-amber-600">
+        Aloooosh
+      </h2>
     </div>
   );
 }
